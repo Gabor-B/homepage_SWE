@@ -2,9 +2,9 @@
 layout: default
 modal-id: 6
 date: 2014-07-15
-img: submarine.png
+img: phil-w-h145.jpg
 alt: image-alt
-project-date: April 2014
+project-date: 2017-2018
 client: Luft/Raumfahrt
 category: SW Entwicklung
 description: Entwicklung von Bestandteilen eines Zertifizierten Flugsimulators für AH145 Hubschrauber. Die Entwicklungsarbeit umfasste das Design und die Implementierung von der Programmlogik und der UI-Elemente, sowie die Entwickung einer eigenen Produktvariante
