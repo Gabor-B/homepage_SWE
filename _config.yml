@@ -1,11 +1,11 @@
 # Site settings
-title: Gabor Botzheim SW-Ingenieur
+title: Gabor Botzheim Software-Ingenieur
 email: gabor@botzheim.de
 baseurl: "homepage_SWE"
 url: http://www.botzheim.de
 description: "Portfolio Webseite."
 keywords: "SW,Entwickung,C++,Java,Qt,Qml,Requirements"
-skills: "SW Developer - Requirements Engineering - Management"
+skills: "Software Entwicklung - Requirements Engineering - Management"
 meta_author: Botzheim Gabor
 
 # Google webmaster tools

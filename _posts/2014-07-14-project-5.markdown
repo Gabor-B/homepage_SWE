@@ -2,10 +2,12 @@
 layout: default
 modal-id: 5
 date: 2014-07-14
+title_project: Flugsimulatorsystem spezifizierung
 img: daniel-mccullough-requirement.jpg
 alt: image-alt
 project-date: 2016-2017
 client: Luft/Raumfahrt
 category: Requirement Engineering
+technology: "DOORS, Polarion"
 description: Erstellung der Requirements für Teilsysteme von einem Flugsimulator für AH145 Hubschrauber anhand von Dokumentation, Flugerprobung, Messungen und Aufzeichnungen.
 ---
