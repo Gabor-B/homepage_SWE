@@ -3,7 +3,7 @@ layout: default
 modal-id: 1
 date: 2014-07-18
 img: daniel-frank-zahntechnik.jpg
-title_project: "Framework for Dental technology"
+title_project: "Framework für Zahntechnikgeräte"
 alt: image-alt
 project-date: 2021-2023
 client: Medizintechnik
