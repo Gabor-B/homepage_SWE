@@ -3,7 +3,7 @@
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2>Kontakt</h2>
+        <h2>{{ site.email_contact }}</h2>
         <hr class="star-primary">
       </div>
     </div>
@@ -21,7 +21,7 @@
           <div class="row control-group">
             <div class="form-group col-xs-12 floating-label-form-group controls">
               <label for="email">{{ site.email_address }}</label>
-              <input type="email" name="_replyto" class="form-control" placeholder="Email Adresse/Address" id="email" required
+              <input type="email" name="_replyto" class="form-control" placeholder="{{ site.email_address }}" id="email" required
                 data-validation-required-message="Please enter your email address.">
               <p class="help-block text-danger"></p>
             </div>
@@ -33,7 +33,7 @@
           <div class="row control-group">
             <div class="form-group col-xs-12 floating-label-form-group controls">
               <label for="message">{{ site.email_message }}</label>
-              <textarea rows="5" name="message" class="form-control" placeholder="Nachricht/Message" id="message" required
+              <textarea rows="5" name="message" class="form-control" placeholder="{{ site.email_message }}" id="message" required
                 data-validation-required-message="Please enter a message."></textarea>
               <p class="help-block text-danger"></p>
             </div>
