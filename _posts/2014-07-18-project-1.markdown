@@ -6,8 +6,10 @@ img: daniel-frank-zahntechnik.jpg
 title_project: "Framework for Dental technology"
 alt: image-alt
 project-date: 2021-2023
-client: Medizintechnik
+client: meditech
+[comment]: <> Medizintechnik
 category: Software Development
 technology: "C++, Qt, Qml"
-description: Erstellung der Framework-komponenten für die neue Produktgeneration der Zahnersatz-Brennöfen, Fräsen und Drucker mit Architektur- und Konzeptwechsel. Die Frameworkkomponenten beinhalten Hardwarehandling, Softwarefeatures, Kommunikations- und Steuerungsinfrastruktur und UI-Elemente
+description: Creation of the framework components for the new product generation of dental prosthesis furnaces, milling machines and printers with architecture and concept change. The framework components include hardware handling, software features, communication and control infrastructure and UI elements.
+[comment]: <> (Erstellung der Framework-komponenten für die neue Produktgeneration der Zahnersatz-Brennöfen, Fräsen und Drucker mit Architektur- und Konzeptwechsel. Die Frameworkkomponenten beinhalten Hardwarehandling, Softwarefeatures, Kommunikations- und Steuerungsinfrastruktur und UI-Elemente)
 ---

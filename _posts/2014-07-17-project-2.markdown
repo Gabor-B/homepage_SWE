@@ -6,8 +6,9 @@ img: vinicius-amnx-amano-vr-headset.jpg
 title_project: Host Simulation with 3D-VR
 alt: image-alt
 project-date: 2009-2014
-client: Aerospace
+client: aerospace
 category: Software Development
 technology: "Java, C"
-description: Entwicklung einer Host-Simulation von Avionik-SW mit verwendung der target software. Implementierung für verschiedene Geräte-Typen mit ähnlicher SW-Architektur. Erstellung eines Messe-demonstrators für VR-Brillen um die Funktionalität des Helm-HUDs zu präsentieren
+description: Development of a host simulation of avionics SW using the target software. Implementation for different device types with similar SW architecture. Creation of a trade fair demonstrator for VR glasses to showcase the functionality of the pilot helmet HUD.
+[//]: <> (Entwicklung einer Host-Simulation von Avionik-SW mit verwendung der target software. Implementierung für verschiedene Geräte-Typen mit ähnlicher SW-Architektur. Erstellung eines Messe-demonstrators für VR-Brillen um die Funktionalität des Helm-HUDs zu präsentieren)
 ---

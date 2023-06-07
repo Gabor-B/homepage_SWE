@@ -6,8 +6,9 @@ img: scott-blake-vermessung.jpg
 title_project: Geodesic Control Software
 alt: image-alt
 project-date: 2019-2020
-client: Geodesic Measurement
+client: geodesic measurement
 category: Embedded Software Development
 technology: "C++, Qt, Qml"
-description: Implementierung von neuen features (funktionen, konnektivität, datenverarbeitung) für ein computergestütztes Vermessungssystem. Konzeptierung und Implementierung der neuen Framework-Generation für die neue Soft- und Hardware-Basis für die neuen Produktlinien.
+description: Implementation of new features (functions, connectivity, data processing) for a computer-aided field surveying system. Conceptual design and implementation of the next generation framework for the new software and hardware base for the new product lines.
+[//]: <> (Implementierung von neuen features (funktionen, konnektivität, datenverarbeitung) für ein computergestütztes Vermessungssystem. Konzeptierung und Implementierung der neuen Framework-Generation für die neue Soft- und Hardware-Basis für die neuen Produktlinien.)
 ---

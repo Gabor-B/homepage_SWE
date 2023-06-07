@@ -6,8 +6,9 @@ title_project: Flight Simulator System Specification
 img: daniel-mccullough-requirement.jpg
 alt: image-alt
 project-date: 2016-2017
-client: Aerospace
+client: aerospace
 category: Requirement Engineering
 technology: "DOORS, Polarion"
-description: Erstellung der Requirements für Teilsysteme von einem Flugsimulator für AH145 Hubschrauber anhand von Dokumentation, Flugerprobung, Messungen und Aufzeichnungen.
+description: Creation of requirements for subsystems of a flight simulator for AH145 and AH125 helicopters on the basis of documentation, flight tests, measurements and recordings.
+[//]: <> (Erstellung der Requirements für Teilsysteme von einem Flugsimulator für AH145 Hubschrauber anhand von Dokumentation, Flugerprobung, Messungen und Aufzeichnungen.)
 ---

@@ -6,8 +6,9 @@ img: austin-neill-helicopter-cockpit.jpg
 title_project: Flight Simulator System development
 alt: image-alt
 project-date: 2018-2019
-client: Aerospace
+client: aerospace
 category: Projekt Management, Technical Lead
 technology: "C++, Qt, Qml"
-description: Leitung eines Internationalen Teams (Remote & Lokal), beauftragt mit der Implementierung der Flugsimulatorsysteme für die Hubschrauber AH125. Verantwortluch für Teamstruktur, Acquise und Projektierung von Arbeitspaketen, Integration beim Kunden, Scrum-Master
+description: Management of an international team (remote & local). In charge of the implementation of the flight simulator systems for the AH125 helicopters. Responsible for team structure, project acquisition and planning of work packages, integration at the customer, scrum master.
+[//]: <> (Leitung eines Internationalen Teams (Remote & Lokal), beauftragt mit der Implementierung der Flugsimulatorsysteme für die Hubschrauber AH125. Verantwortluch für Teamstruktur, Acquise und Projektierung von Arbeitspaketen, Integration beim Kunden, Scrum-Master)
 ---
