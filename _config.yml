@@ -63,13 +63,13 @@ color:
 # Footer settings
 footer:
   copyright: Gabor Botzheim
-  location: München, Wien, Budapest
+  location: Berlin, Wien, Budapest
   credits: Credits
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Heinrich-Wieland-Str 195
-  - line: München, 81735
+  - line: Martin-Opitz-Str 22
+  - line: Berlin, 13357
 
 # Credits content
 credits: <a href="impressum.html">Impressum</a>
