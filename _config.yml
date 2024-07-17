@@ -1,6 +1,6 @@
 # Site settings
-title: Gabor Botzheim Software-Engineer
-title_de: Gabor Botzheim Software-Ingenieur
+title: Botzheim IT Kft.
+title_de: Botzheim IT Kft.
 email: gabor@botzheim.de
 baseurl: "homepage_SWE"
 url: https://www.botzheim.de
@@ -14,18 +14,18 @@ about: "About"
 about_de: "Über mich"
 contact_title: "Contact"
 contact_title_de: "Kontakt"
-about_me1: "I am a self-employed Software Engineer, focusing on software development, requirements engineering and management.
-          I have gathered the most experience until now in the aerospace industry, both in the civil and the military area.
-          I furthermore had noteworthy projects in the automotive, meditech and geodesic industry."
-about_me1_de: "Ich bin ein Freiberuflicher Software Ingenieur, mit Fokus auf Software-Entwicklung, Requirement Engineering und Management.
-          Am meisten Erfahrung konnte ich bis jetzt in der Luft und Raumfahrtbranche sammeln, sowohl im Zivilen und Militärischen Bereich.
-          Desweiteren hatte ich noch viele nennenswerte Projekte in der Automobil-, der Medizintechnik- und der Vermessungsbranche."
-about_me2: "My strong side in software development is embedded C++, Java, Qt development with knowledge of numerous frameworks. I am able to work productive both in single or multinational team projects 
-         and I readily bring in and distribute my knowledge. Through my experience in leadership positions, I understand, and can act well as a mediator between two worlds. 
-         In requirements engineering, my experience from both perspectives helps to create efficient and good requirements. "          
-about_me2_de: "In der Software-Entwicklung liegen meine Stärken bei C++, Java, Qt und diversen Frameworks. Ich arbeite sowohl einzeln als auch in verteilten Multinationalen Teams produktiv
-         und bringe meine Erfahrung gerne in ein Team ein. Durch meine Erfahrung in Leitungspositionen kann ich gut als Vermittler zwischen zwei Welten agieren. 
-         Beim Requirement Engineering hilft meine Erfahrung aus beiden Perspektiven bei der Erstellung von effizienten und guten Anforderungen. "
+about_me1: "We are Software Engineers, focusing on software development, requirements engineering and management.
+          We have gathered the most experience until now in the aerospace industry, both in the civil and the military area.
+          We furthermore had noteworthy projects in the automotive, meditech and geodesic industry."
+about_me1_de: "Wir sind Software Ingenieure, mit Fokus auf Software-Entwicklung, Requirement Engineering und Management.
+          Am meisten Erfahrung konnten wir bis jetzt in der Luft und Raumfahrtbranche sammeln, sowohl im Zivilen und Militärischen Bereich.
+          Desweiteren hatten wir noch viele nennenswerte Projekte in der Automobil-, der Medizintechnik- und der Vermessungsbranche."
+about_me2: "Our strong side in software development is embedded C++, Java, Qt development with knowledge of numerous frameworks. We are able to work productive both in single or multinational team projects
+         and readily bring in and distribute our knowledge. We understand SW and Management side, and can act well as a mediator between the two worlds.
+         In requirements engineering, our experience from both perspectives helps to create efficient and good requirements. "
+about_me2_de: "In der Software-Entwicklung liegen unsere Stärken bei C++, Java, Qt und diversen Frameworks. Wir arbeiten sowohl einzeln als auch in verteilten Multinationalen Teams produktiv
+         und bringen unsere Erfahrung gerne in ein Team ein. Wir können gut als Vermittler zwischen den zwei Welten der SW Entwicklung und Management agieren.
+         Beim Requirement Engineering hilft unsere Erfahrung aus beiden Perspektiven bei der Erstellung von effizienten und guten Anforderungen. "
 email_send: "Send"
 email_send_de: "Senden"
 email_address: "Email Address"
@@ -62,14 +62,14 @@ color:
 
 # Footer settings
 footer:
-  copyright: Gabor Botzheim
-  location: Berlin, Wien, Budapest
+  copyright: Botzheim IT Kft.
+  location: Budapest, Wien
   credits: Credits
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: Martin-Opitz-Str 22
-  - line: Berlin, 13357
+  - line: Diófa utca 6
+  - line: Pilisvörösvár, 2085
 
 # Credits content
 credits: <a href="impressum.html">Impressum</a>
